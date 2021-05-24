@@ -7,9 +7,9 @@ Soy una apasionada del aprendizaje y superación constante. Fiel creyente de que
 La pluralidad y diversificación de las fuentes del aprendizaje te llevarán mas lejos siempre que haya un enfoque, se practique y aplique.
 
 
-Actualmente:
+En este momento de mi vida:
 
-- 🔭 Actualmente estoy perfeccionando mi proyecto final de 4Geeks Academy...
+- 🔭 Estoy perfeccionando mi proyecto final de 4Geeks Academy...
 - 🌱 Mejorando y afianzando mi conocimiento en REACT y PYTHON.
 - 👯 Quiero colaborar en toda actividad o proyecto posible, se que eso hará que gane confianza y experiencia.
 - 🤔 Estoy en la búsqueda constante de aprendizaje.
