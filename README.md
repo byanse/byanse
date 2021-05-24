@@ -13,7 +13,7 @@ En este momento de mi vida:
 - 🌱 Mejorando y afianzando mi conocimiento en REACT y PYTHON.
 - 👯 Quiero colaborar en toda actividad o proyecto posible, se que eso hará que gane confianza y experiencia.
 - 🤔 Estoy en la búsqueda constante de aprendizaje.
-- 💬 Cualquier duda o consulta sobre mi, puedes comunicarte a través de mi:
+- 💬 Cualquier duda o consulta sobre mi, puedes comunicarte ubicarme a través de:
 - 📫 https://www.linkedin.com/in/byanse/
 
 - ⚡ Dato curioso: 
