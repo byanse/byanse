@@ -1,5 +1,7 @@
 Saludos 👋
 
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
 ### 🛠 &nbsp;Tecnologías y Herramientas
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
