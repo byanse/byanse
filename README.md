@@ -1,6 +1,21 @@
-Saludos 👋
+### ⚙️ &nbsp;Saludos
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+### ⚙️ &nbsp;Acerca de mi
+
+En este momento de mi vida:
+
+- 🔭 Estoy perfeccionando mi proyecto final de 4Geeks Academy...
+- 🌱 Mejorando y afianzando mi conocimiento en REACT y PYTHON.
+- 👯 Quiero colaborar en toda actividad o proyecto posible, se que eso hará que gane confianza y experiencia.
+- 🤔 Estoy en la búsqueda constante de aprendizaje.
+- 💬 Cualquier duda o consulta sobre mi, puedes ubicarme a través de:
+- 📫 https://www.linkedin.com/in/byanse/
+
+- ⚡ Dato curioso: 
+--> Amo bailar, reir, conocer, viajar pero por sobretodo bailar jaja, por algo esta repetido!
+
 
 ### 🛠 &nbsp;Tecnologías y Herramientas
 
@@ -24,16 +39,3 @@ Saludos 👋
 </a>
 </p>
 
-### ⚙️ &nbsp;Acerca de mi
-
-En este momento de mi vida:
-
-- 🔭 Estoy perfeccionando mi proyecto final de 4Geeks Academy...
-- 🌱 Mejorando y afianzando mi conocimiento en REACT y PYTHON.
-- 👯 Quiero colaborar en toda actividad o proyecto posible, se que eso hará que gane confianza y experiencia.
-- 🤔 Estoy en la búsqueda constante de aprendizaje.
-- 💬 Cualquier duda o consulta sobre mi, puedes ubicarme a través de:
-- 📫 https://www.linkedin.com/in/byanse/
-
-- ⚡ Dato curioso: 
---> Amo bailar, reir, conocer, viajar pero por sobretodo bailar jaja, por algo esta repetido!
