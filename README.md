@@ -33,7 +33,7 @@ En este momento de mi vida:
 ### ⚙️ &nbsp;GitHub Estadísticas
 
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?byanse)](https://github.com/byanse/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byanse)](https://github.com/byanse/github-readme-stats)
 
 </p>
 
