@@ -1,8 +1,8 @@
-### ⚙️ &nbsp;Saludos
+###  &nbsp;Saludos
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
-### ⚙️ &nbsp;Acerca de mi
+### 👯 &nbsp;Acerca de mi
 
 En este momento de mi vida:
 
@@ -17,7 +17,9 @@ En este momento de mi vida:
 --> Amo bailar, reir, conocer, viajar pero por sobretodo bailar jaja, por algo esta repetido!
 
 
-### 🛠 &nbsp;Tecnologías y Herramientas
+### 🌱 &nbsp;Tecnologías y Herramientas
+
+
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -30,10 +32,11 @@ En este momento de mi vida:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+  
+  
 ### ⚙️ &nbsp;GitHub Estadísticas
 
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byanse&show_icons=true&theme=synthwave)
 
 </p>
 
