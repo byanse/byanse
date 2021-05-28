@@ -1,4 +1,4 @@
-###  &nbsp;Sea usted Bienvenido ----- ### & nbsp; Welcome
+###  &nbsp;Sea usted Bienvenido -----  Welcome
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
@@ -11,7 +11,7 @@ La pluralidad y diversificación de las fuentes del aprendizaje te llevarán má
 - ⚡ Dato curioso: 
 --> Amo bailar, reir, conocer, viajar pero por sobretodo bailar jaja, por algo esta repetido!
 
-### 👯 & nbsp; About me
+### 👯 About me
 
 Passionate about learning and constant improvement, which is why I am "in love" with programming. Faithful believer that two heads think more than one, therefore development and teamwork is vital.
 The plurality and diversification of the sources of learning will take you further as long as there is an approach, it is practiced and applied.
