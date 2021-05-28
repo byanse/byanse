@@ -20,7 +20,7 @@ The plurality and diversification of the sources of learning will take you furth
 - ⚡ Fun fact:
 --> I love to dance, laugh, meet, travel but above all dance haha, for something is repeated!
 
-### 🌱 &nbsp;Technologies and Tools
+### 🌱 &nbsp;Tecnologías y herramientas ---- Technologies and Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -33,7 +33,7 @@ The plurality and diversification of the sources of learning will take you furth
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Statistics
+### ⚙️ &nbsp;GitHub Estadísticas ---- Statistics
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byanse&show_icons=true&theme=radical)
 
