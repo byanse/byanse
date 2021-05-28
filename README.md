@@ -1,4 +1,4 @@
-###  &nbsp;Sea usted Bienvenido
+###  &nbsp;Sea usted Bienvenido ----- ### & nbsp; Welcome
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
@@ -10,10 +10,6 @@ La pluralidad y diversificación de las fuentes del aprendizaje te llevarán má
 
 - ⚡ Dato curioso: 
 --> Amo bailar, reir, conocer, viajar pero por sobretodo bailar jaja, por algo esta repetido!
-
-### & nbsp; Welcome
-
-<p align = "center"> <img src = "https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt = "Synthwave" height = "300" width = "500"> </p>
 
 ### 👯 & nbsp; About me
 
