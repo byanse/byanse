@@ -4,22 +4,27 @@
 
 ### 👯 &nbsp;Acerca de mi
 
-En este momento de mi vida:
-
-- 🔭 Estoy perfeccionando mi proyecto final de 4Geeks Academy...
-- 🌱 Mejorando y afianzando mi conocimiento en REACT y PYTHON.
-- 👯 Quiero colaborar en toda actividad o proyecto posible, se que eso hará que gane confianza y experiencia.
-- 🤔 Estoy en la búsqueda constante de aprendizaje.
-- 💬 Cualquier duda o consulta sobre mi, puedes ubicarme a través de:
+Apasionada del aprendizaje y superación constante, razón por la que estoy "enamorada" de la programación. Fiel creyente de que dos cabezas piensan mas que una, por tanto es vital el desenvolvimiento y trabajo en equipo.
+La pluralidad y diversificación de las fuentes del aprendizaje te llevarán más lejos siempre que haya un enfoque, se practique y aplique.
 - 📫 https://www.linkedin.com/in/byanse/
 
 - ⚡ Dato curioso: 
 --> Amo bailar, reir, conocer, viajar pero por sobretodo bailar jaja, por algo esta repetido!
 
+### & nbsp; Welcome
 
-### 🌱 &nbsp;Tecnologías y Herramientas
+<p align = "center"> <img src = "https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt = "Synthwave" height = "300" width = "500"> </p>
 
+### 👯 & nbsp; About me
 
+Passionate about learning and constant improvement, which is why I am "in love" with programming. Faithful believer that two heads think more than one, therefore development and teamwork is vital.
+The plurality and diversification of the sources of learning will take you further as long as there is an approach, it is practiced and applied.
+- 📫 https://www.linkedin.com/in/byanse/
+
+- ⚡ Fun fact:
+-> I love to dance, laugh, meet, travel but above all dance haha, for something is repeated!
+
+### 🌱 &nbsp;Technologies and Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -32,9 +37,7 @@ En este momento de mi vida:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-  
-  
-### ⚙️ &nbsp;GitHub Estadísticas
+### ⚙️ &nbsp;GitHub Statistics
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byanse&show_icons=true&theme=radical)
 
