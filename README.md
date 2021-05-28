@@ -18,7 +18,7 @@ The plurality and diversification of the sources of learning will take you furth
 - 📫 https://www.linkedin.com/in/byanse/
 
 - ⚡ Fun fact:
--> I love to dance, laugh, meet, travel but above all dance haha, for something is repeated!
+--> I love to dance, laugh, meet, travel but above all dance haha, for something is repeated!
 
 ### 🌱 &nbsp;Technologies and Tools
 
